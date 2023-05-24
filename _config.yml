@@ -1,8 +1,8 @@
 title: Tammy's Portfolio
 email: tammy@tammymetz.com
 description: >- Portfolio site for CU Boulder's Computer Science program
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ctci" # the subpath of your site, e.g. /blog
+url: "http://tammydoestheneedful.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tmetz
 
 # Build settings
