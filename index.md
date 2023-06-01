@@ -4,6 +4,8 @@ layout: default
 
 ## Tammy's portfolio site
 
+[Click here for the full project description]({{ site.baseurl }}{% link about.md %})
+
 <ul>
   {% for post in site.posts %}
     <li>
