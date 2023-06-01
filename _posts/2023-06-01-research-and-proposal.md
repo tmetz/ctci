@@ -1,3 +1,8 @@
+---
+title: Research and proposal
+author: Tammy Metz
+---
+
 ### What did you do last week?
 - Researched for and wrote up my project proposal
 - Set up my website
