@@ -1,6 +1,7 @@
 ---
 title: Linked lists, Stacks and queues
 author: Tammy Metz
+excerpt_separator: <!--more-->
 ---
 
 ## Agile check-in
@@ -10,6 +11,7 @@ author: Tammy Metz
 - Became familiar with Leetcode (I have an account, but don't seem to have history from last time I was on it, in 2018 or 2019)
 - Filmed and uploaded video of me doing a problem about queues
 - Wrote reflection of video (see section below)
+<!--more-->
 
 ### What do you plan to do this week?
 - Review trees and binary search trees
