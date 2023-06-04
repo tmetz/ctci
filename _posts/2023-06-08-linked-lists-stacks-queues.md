@@ -28,7 +28,7 @@ excerpt_separator: <!--more-->
 ## Reflection on this week's video
 
 ### Video link
-https://www.youtube.com/watch?v=XHZKYtCZTV4
+[Click here for video](https://www.youtube.com/watch?v=XHZKYtCZTV4)
 
 ### I need to get used to
 - Doing things in Python instead of Java which CtCI is in
