@@ -4,8 +4,6 @@ author: Tammy Metz
 excerpt_separator: <!--more-->
 ---
 
-## Agile check-in
-
 ### What did you do last week?
 - Learned about trees and binary search trees
 - Learned some Jekyll tricks so I could keep a running list of my posts on the main page

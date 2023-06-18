@@ -4,8 +4,6 @@ author: Tammy Metz
 excerpt_separator: <!--more-->
 ---
 
-## Agile check-in
-
 ### What did you do last week?
 - Learned about linked lists, stacks and queues
 - Became familiar with Leetcode (I have an account, but don't seem to have history from last time I was on it, in 2018 or 2019)
