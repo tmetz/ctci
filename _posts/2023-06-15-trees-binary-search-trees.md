@@ -8,8 +8,7 @@ excerpt_separator: <!--more-->
 - Learned about trees and binary search trees
 - Learned some Jekyll tricks so I could keep a running list of my posts on the main page
 - Filmed and uploaded [video of me attempting a problem about a binary tree](https://www.youtube.com/watch?v=xFqrQWX9bAw).  It did not go well.
-- Wrote [reflection of video](#reflection-on-this-weeks-video)
-<!--more-->
+- Wrote reflection of video <!--more-->([below](#reflection-on-this-weeks-video))
 
 ### What do you plan to do this week?
 - Review tries
