@@ -1,5 +1,5 @@
 ---
-title: Trees and Binary Search Trees
+title: Weekly check-in: Trees and Binary Search Trees
 author: Tammy Metz
 excerpt_separator: <!--more-->
 ---

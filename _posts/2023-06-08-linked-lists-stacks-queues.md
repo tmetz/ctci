@@ -1,5 +1,5 @@
 ---
-title: Linked lists, Stacks and queues
+title: Weekly check-in: Linked lists, Stacks and queues
 author: Tammy Metz
 excerpt_separator: <!--more-->
 ---
