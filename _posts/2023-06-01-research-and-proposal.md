@@ -1,5 +1,5 @@
 ---
-title: Weekly check-in: Research and proposal
+title: (Weekly check-in) Research and proposal
 author: Tammy Metz
 ---
 
