@@ -28,19 +28,19 @@ I will then find a Leetcode problem to solve that falls under that category.  I 
 
 For my status updates, I will include an analysis of what worked well, what could have gone better, and any other thoughts.
 
-A tentative schedule is:
+A tentative schedule (updated June 21st) is:
 
 - **Week 1:** Submit proposal and set up basic structure of webpage
 - **Week 2:** Linked lists, Stacks and queues
 - **Week 3:** Trees, Binary search trees
 - **Week 4:** Tries
-- **Week 5:** Heaps
-- **Week 6:** Hash tables
-- **Week 7:** Recursion, Binary search, sorts (Quicksort, Mergesort, Bubble sort)
-- **Week 8:** BFS
-- **Week 9:** DFS
-- **Week 10:** Memoization
-- **Week 11:** Dynamic Programming
+- **Week 5:** Tries
+- **Week 6:** Heaps
+- **Week 7:** Heaps
+- **Week 8:** Hash tables
+- **Week 9:** Hash tables
+- **Week 10:** Recursion, Binary search
+- **Week 11:** sorts (Quicksort, Mergesort, Bubble sort)
 - **Week 12:** Finalize project
 
 **Things I will do if possible:**
