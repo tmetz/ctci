@@ -1,5 +1,0 @@
----
-published: false
----
-
-Hash tables
